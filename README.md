@@ -46,7 +46,7 @@ I am dedicated to pushing the boundaries of mobile app development, creating sea
 
 ## 🔗 Connect With Me
 
-[![Ankur Kushwaha's LinkedIn](https://img.shields.io/badge/Ankur%20Kushwaha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kushwaha/)
+[![Ankur Kushwaha's LinkedIn](https://img.shields.io/badge/Ankur%20Kushwaha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kushwaha-818791248/)
 
 [![Ankur Kushwaha's Twitter](https://img.shields.io/badge/Ankur%20Kushwaha-X?style=flat&logo=X&logoColor=white&link=https://twitter.com/AnkurKushwaha23&color=black)](https://twitter.com/AnkurKushwaha23)
 
