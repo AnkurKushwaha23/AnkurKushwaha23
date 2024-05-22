@@ -16,6 +16,7 @@
 <p>
   <img alt="Android Development" src="https://img.shields.io/badge/-Android%20Dev-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/UI/UX-Design-blue">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Debugging%20%26%20Troubleshooting-red?logo=bug">
