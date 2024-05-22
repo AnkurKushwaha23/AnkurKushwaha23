@@ -52,3 +52,6 @@ I am dedicated to pushing the boundaries of mobile app development, creating sea
 [![Ankur Kushwaha's Twitter](https://img.shields.io/badge/Ankur%20Kushwaha-X?style=flat&logo=X&logoColor=white&link=https://twitter.com/AnkurKushwaha23&color=black)](https://twitter.com/AnkurKushwaha23)
 
 [![Ankur Kushwaha's Gmail](https://img.shields.io/badge/Ankur%20Kushwaha-Gmail?style=flat&logo=gmail&logoColor=white&color=red&link=mailto:ankursenpai@gmail.com)](mailto:ankursenpai@gmail.com "Connect via Email")
+
+[![Ankur Kushwaha's Linktree](https://img.shields.io/badge/Ankur%20Kushwaha-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ankurkushwaha23)
+
