@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 👩‍💻 I'm currently working on **Android, Java, SQLite and RESTful APIs**
-- 🧠 I'm currently learning **Kotlin,Jetpack Compose,Firebase**
+- 🧠 I'm currently learning **Kotlin,REST API,Firebase**
 - 💬 Ask me about **Android Development**
 - 📫 Reach me through [![Ankur Kushwaha's Twitter](https://img.shields.io/badge/Ankur%20Kushwaha-X?style=flat&logo=X&logoColor=white&link=https://twitter.com/AnkurKushwaha23&color=black)](https://twitter.com/AnkurKushwaha23)
 <img src="https://github.com/AnkurKushwaha23/AnkurKushwaha23/blob/main/android-logo-12385.png?raw=true" align="right" height="120" />
