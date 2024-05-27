@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-- 👩‍💻 I'm currently working on **Android, Java, SQLite and RESTful APIs**
+- 👩‍💻 I'm currently working on **Android, Kotlin,RESTful APIs**
 - 🧠 I'm currently learning **Kotlin,REST API,Firebase**
 - 💬 Ask me about **Android Development**
 - 📫 Reach me through [![Ankur Kushwaha's Twitter](https://img.shields.io/badge/Ankur%20Kushwaha-X?style=flat&logo=X&logoColor=white&link=https://twitter.com/AnkurKushwaha23&color=black)](https://twitter.com/AnkurKushwaha23)
@@ -38,6 +38,7 @@
   <img alt="XML" src="https://img.shields.io/badge/-XML-2C3E50?style=flat-square&logo=xml&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="RESTful API" src="https://img.shields.io/badge/-RESTful_API-61DAFB?style=flat-square&logo=rest&logoColor=white" />
+  <img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
