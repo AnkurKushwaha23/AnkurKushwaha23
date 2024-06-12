@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankur Kushwaha</h1>
 
-<h3 align="center">An Android App Developer specializing in Java. With a passion for crafting innovative and user-centric mobile applications.</h3>
+<h3 align="center">An Android App Developer specializing in Kotlin. With a passion for crafting innovative and user-centric mobile applications.</h3>
 
 
 ## 🚀 About Me
