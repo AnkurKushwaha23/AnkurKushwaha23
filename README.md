@@ -30,6 +30,9 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+
 </p>
 
 **Tools and Frameworks**
@@ -37,7 +40,8 @@
   <img alt="Android Development" src="https://img.shields.io/badge/-Android%20Dev-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="XML" src="https://img.shields.io/badge/-XML-2C3E50?style=flat-square&logo=xml&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="RESTful API" src="https://img.shields.io/badge/-RESTful_API-61DAFB?style=flat-square&logo=rest&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=api&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
