@@ -4,8 +4,8 @@
 
 
 ## 🚀 About Me
-- 👩‍💻 I'm currently working on **Android, Kotlin, Jetpack Compose**
-- 🧠 I'm currently learning **Jetpack Compose**
+- 👩‍💻 I'm currently working on **Android, Ktor, Jetpack Compose**
+- 🧠 I'm currently learning **Ktor & Jetpack Compose**
 - 💬 Ask me about **Android App Development**
 - 📫 Reach me through [![Ankur Kushwaha's Twitter](https://img.shields.io/badge/Ankur%20Kushwaha-X?style=flat&logo=X&logoColor=white&link=https://twitter.com/AnkurKushwaha23&color=black)](https://twitter.com/AnkurKushwaha23)
 <img src="https://github.com/AnkurKushwaha23/AnkurKushwaha23/blob/main/android-logo-12385.png?raw=true" align="right" height="120" />
@@ -15,6 +15,7 @@
 ## 🚀 Key Skills:
 <p>
   <img alt="Android Development" src="https://img.shields.io/badge/-Android%20Dev-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-5A01FF?style=flat-square&logo=ktor&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/UI/UX-Design-blue">
@@ -38,6 +39,7 @@
 **Tools and Frameworks**
 <p>
   <img alt="Android Development" src="https://img.shields.io/badge/-Android%20Dev-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-5A01FF?style=flat-square&logo=ktor&logoColor=white" />
   <img alt="XML" src="https://img.shields.io/badge/-XML-2C3E50?style=flat-square&logo=xml&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=api&logoColor=white" />
